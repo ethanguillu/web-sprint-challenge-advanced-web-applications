@@ -6,7 +6,6 @@ import Message from './Message'
 import ArticleForm from './ArticleForm'
 import Spinner from './Spinner'
 import { axiosWithAuth } from '../axios'
-// import RouteWithAuth from './RouteWithAuth'
 import RouteWithAuth from './RouteWithAuth'
 
 const articlesUrl = 'http://localhost:9000/api/articles'
